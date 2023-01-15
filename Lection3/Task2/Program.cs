@@ -8,7 +8,7 @@ string text = "- Я думаю, - сказал князь, улыбаясь, - �
 
 // string s = "qwerty"
 //             012
-// s [3]   //  r
+// s [3] //  r
 
 string Replace (string text, char oldValue, char newValue)
 {
